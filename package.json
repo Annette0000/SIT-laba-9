@@ -8,7 +8,7 @@
     "graphql": "14.5.8",
     "graphql-tag": "2.10.1",
     "isemail": "3.2.0",
-    "sequelize": "5.2.1",
+    "sequelize": "5.15.1",
     "sqlite3": "4.2.0"
   },
   "license": "MIT",
